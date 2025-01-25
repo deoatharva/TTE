@@ -2,3 +2,4 @@ streamlit
 SpeechRecognition
 deep-translator
 gTTS
+pyaudio
